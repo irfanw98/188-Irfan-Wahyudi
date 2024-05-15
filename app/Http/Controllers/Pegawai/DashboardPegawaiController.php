@@ -9,6 +9,6 @@ class DashboardPegawaiController extends Controller
 {
     public function index()
     {
-        return 'Halaman Dashboard Pegawai';
+        return view('pegawai.dashboard');
     }
 }

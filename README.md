@@ -5,6 +5,20 @@
 
 Siarat atau sistem arsip surat dibuat untuk manajemen arsip surat masuk dan surat keluar pada perusahaan atau instansi.
 
+## Demo Akun Project :
+
+<h4>Administrator</h4>
+<p>Email : anisa@gmail.com</p>
+<p>Password : anisa123</p>
+
+<h4>Pimpinan</h4>
+<p>Email : bambang@gmail.com</p>
+<p>Password : bambang123</p>
+
+<h4>Pegawai</h4>
+<p>Email : tito@gmail.com</p>
+<p>Password : tito123</p>
+
 <!-- <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">

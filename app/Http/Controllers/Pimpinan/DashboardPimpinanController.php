@@ -9,6 +9,6 @@ class DashboardPimpinanController extends Controller
 {
     public function index()
     {
-        return 'Halaman Dashboard Pimpinan';
+        return view('pimpinan.dashboard');
     }
 }

@@ -49,5 +49,5 @@ Route::middleware(['auth'])->group(function () {
         });
     });
 
-    Route::get('/logout', [LogoutController::class, 'logout'])->name('logout');
+    Route::post('/logout', [LogoutController::class, 'logout'])->name('logout');
 });

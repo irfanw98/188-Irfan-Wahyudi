@@ -23,6 +23,12 @@
     {{-- Ion Icon --}}
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    {{-- Jquery --}}
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    {{-- Sweetalert --}}
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    {{-- Ckeditor --}}
+    <script src="https://cdn.ckeditor.com/4.16.0/standard/ckeditor.js"></script>
     @yield('head')
 </head>
 
@@ -42,36 +48,14 @@
                             <div class="text-sm leading-normal text-center text-slate-500 lg:text-left">
                                 ©
                                 <script>
-                                    document.write(new Date().getFullYear() + ",");
+                                    document.write(new Date().getFullYear());
                                 </script>
-                                made with <i class="fa fa-heart"></i> by
-                                <a href="https://www.creative-tim.com" class="font-semibold text-slate-700"
-                                    target="_blank">Creative Tim</a>
-                                for a better web.
+                                Siarat All Rights Reserved.
                             </div>
                         </div>
                         <div class="w-full max-w-full px-3 mt-0 shrink-0 lg:w-1/2 lg:flex-none">
-                            <ul class="flex flex-wrap justify-center pl-0 mb-0 list-none lg:justify-end">
-                                <li class="nav-item">
-                                    <a href="https://www.creative-tim.com"
-                                        class="block px-4 pt-0 pb-1 text-sm font-normal transition-colors ease-soft-in-out text-slate-500"
-                                        target="_blank">Creative Tim</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="https://www.creative-tim.com/presentation"
-                                        class="block px-4 pt-0 pb-1 text-sm font-normal transition-colors ease-soft-in-out text-slate-500"
-                                        target="_blank">About Us</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="https://creative-tim.com/blog"
-                                        class="block px-4 pt-0 pb-1 text-sm font-normal transition-colors ease-soft-in-out text-slate-500"
-                                        target="_blank">Blog</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="https://www.creative-tim.com/license"
-                                        class="block px-4 pt-0 pb-1 pr-0 text-sm font-normal transition-colors ease-soft-in-out text-slate-500"
-                                        target="_blank">License</a>
-                                </li>
+                            <ul class="flex flex-wrap justify-end pl-0 mb-0 list-none lg:justify-end">
+                                <p class="text-sm">Created By Irfan Wahyudi.</p>
                             </ul>
                         </div>
                     </div>

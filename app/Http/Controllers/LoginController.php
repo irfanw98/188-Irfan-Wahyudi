@@ -25,9 +25,9 @@ class LoginController extends Controller
             if (Auth::user()->role_id == 1) {
                 return redirect()->intended(route('dashboard.admin'));
             } elseif(Auth::user()->role_id == 2) {
-                return redirect()->intended(route('dashboard.pimpinan'));
+                return redirect()->intended(route('pimpinan.dashboard'));
             } else {
-                return redirect()->intended(route('dashboard.pegawai'));
+                return redirect()->intended(route('pegawai.dashboard'));
             }
         }
 

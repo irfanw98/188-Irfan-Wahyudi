@@ -1,12 +1,16 @@
-<h1 align="center">Project Tugas Akhir - Bootcamp JDA(Jabar Digital Academy) x Alkademi - Fullstack Web Programming 💻</h1>
-<p>Irfan Wahyudi</p>
-<p>Siarat | Sistem Arsip Surat 📩 | Framework Laravel Versi 11</p>
+<h1 align="center">Bootcamp JDA(Jabar Digital Academy) - Fullstack Web Programming 💻</h1>
 
 ---
 
+## Author
+
+<p>Irfan Wahyudi</p>
+
 ## Deskripsi Project :
 
-Siarat atau sistem arsip surat sederhana dibuat untuk manajemen arsip surat masuk dan surat keluar pada perusahaan atau instansi.
+<p>Siarat | Sistem Arsip Surat 📩 | Framework Laravel Versi 11</p>
+
+Project Tugas Akhir : Siarat atau sistem arsip surat sederhana dibuat untuk manajemen arsip surat masuk dan surat keluar pada perusahaan atau instansi.
 
 ## Demo Akun Project :
 

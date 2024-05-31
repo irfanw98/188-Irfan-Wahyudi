@@ -1,6 +1,4 @@
-<h1 align="center">Bootcamp JDA(Jabar Digital Academy) - Fullstack Web Programming 💻</h1>
-
----
+<h1 align="center">Jabar Digital Academy - Fullstack Web Programming 💻</h1>
 
 ## Author
 
